@@ -8,6 +8,7 @@ This repository was created just to answer a Backend Entry Level Exercise found 
 - Spring Boot 3.3.4
 - Spring Web
 - Hibernate Validation
+- JUnit 5
 
 ## How To Run?
  
